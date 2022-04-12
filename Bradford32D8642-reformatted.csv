@@ -15,7 +15,7 @@ Plymouth,,N,Bradford32D8642,1402,Walcote,Henry IV 4,
 London Bridge,LOND1,Y,Bradford32D8642,1402,Walcote,Henry IV 4,Head of Henry Percy displayed
 Blackpool,,N,Bradford32D8642,1403,Asham [Little],Henry IV 5,
 Scotland,,N,Bradford32D8642,1403,Asham [Little],Henry IV 5,
-London ,Not Found,Y,Bradford32D8642,1403,Asham [Little],Henry IV 5,"William Serle drawn, hanged and beheaded"
+London,LOND5,Y,Bradford32D8642,1403,Asham [Little],Henry IV 5,"William Serle drawn, hanged and beheaded"
 York,,N,Bradford32D8642,1404,Hende,Henry IV 6,
 Windsor,,N,Bradford32D8642,1404,Hende,Henry IV 6,
 Pevensy,,N,Bradford32D8642,1404,Hende,Henry IV 6,
@@ -150,7 +150,7 @@ Calais,,N,Bradford32D8642,1426,Reynwell,Henry VI 5,
 Orleans,,N,Bradford32D8642,1428,Barton,Henry VI 7,
 Aldgate,ALDG1,Y,Bradford32D8642,1428,Barton,Henry VI 7,Breton murders widow
 St. George Southwark,STGE4,Y,Bradford32D8642,1428,Barton,Henry VI 7,Murderer takes sanctuary
-St. Saviour (Southwark) ,Not Found,Y,Bradford32D8642,1428,Barton,Henry VI 7,Duke of Norfolk takes his barge
+St. Saviour (Southwark),STSA1,Y,Bradford32D8642,1428,Barton,Henry VI 7,Duke of Norfolk takes his barge
 The Thames,THAM2,Y,Bradford32D8642,1428,Barton,Henry VI 7,Duke of Norfolk's barge wrecked on Bridge
 Calais,,N,Bradford32D8642,1429,Estfeld,Henry VI 8,
 Compiegne,,N,Bradford32D8642,1429,Estfeld,Henry VI 8,
@@ -188,7 +188,7 @@ Baynard's Castle,Not Found,Y,Bradford32D8642,1438,Brown,Henry VI 17,Accident kil
 Fleet Street Conduit,FLEE8,Y,Bradford32D8642,1438,Brown,Henry VI 17,New conduit made
 London,LOND5,Y,Bradford32D8642,1438,Brown,Henry VI 17,Wheat prices rise
 Newgate,NEWG1,Y,Bradford32D8642,1438,Brown,Henry VI 17,Prostitutes put in red hoods
-Cornhill ,Not Found,Y,Bradford32D8642,1438,Brown,Henry VI 17,Prostitutes put in pillory
+Cornhill,CORN2,Y,Bradford32D8642,1438,Brown,Henry VI 17,Prostitutes put in pillory
 The Standard (Cheapside),STAN17,Y,Bradford32D8642,1438,Brown,Henry VI 17,Falsely made goods burned
 Gascony,,N,Bradford32D8642,1439,Large,Henry VI 18,
 The Thames,THAM2,Y,Bradford32D8642,1439,Large,Henry VI 18,Two bargemen hanged for murder
@@ -200,5 +200,5 @@ Cheapside Street,CHEA2,Y,Bradford32D8642,1439,Large,Henry VI 18,Burning hay remo
 Cheapside Cross (Eleanor Cross),ELEA1,Y,Bradford32D8642,1439,Large,Henry VI 18,Goldsmith's house nearby burned
 The Eagle,Not Found,Y,Bradford32D8642,1439,Large,Henry VI 18,Fire
 Pontefract Castle,,N,Bradford32D8642,1440,Paddysley,Henry VI 19,
-London ,Not Found,Y,Bradford32D8642,1440,Paddysley,Henry VI 19,Dame Eleanor Cobham does penance
-Fleet Street ,Not Found,Y,Bradford32D8642,1440,Paddysley,Henry VI 19,Fight between men of London and men of the court
+London,LOND5,Y,Bradford32D8642,1440,Paddysley,Henry VI 19,Dame Eleanor Cobham does penance
+Fleet Street,FLEE6,Y,Bradford32D8642,1440,Paddysley,Henry VI 19,Fight between men of London and men of the court

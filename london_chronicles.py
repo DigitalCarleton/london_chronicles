@@ -76,11 +76,17 @@ for row in data[1:]:
                         [place, None, 'N', chronicle, row[0], row[1], row[2], None])
             elif 'Context' not in header_row[i]:
                 xml = 'Not Found'
+                #remove leading and trailing spaces
+                place_name = row[i].strip()
+                if place_name == "Skinner's Well":
+                    print("============================================")
+                    quit()
+                
                 for feature in json_data['features']:
-                    if feature['title'] == row[i]:
+                    if feature['title'] == place_name:
                         xml = feature['id']
                 final_data.append(
-                    [row[i], xml, 'Y', chronicle, row[0], row[1], row[2], row[i + 1]])
+                    [place_name, xml, 'Y', chronicle, row[0], row[1], row[2], row[i + 1]])
 
 
 with open(new_file_name, "w", newline="") as f:
