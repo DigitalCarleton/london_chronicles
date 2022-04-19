@@ -76,14 +76,14 @@ for row in data[1:]:
                         [place, None, 'N', chronicle, row[0], row[1], row[2], None])
             elif 'Context' not in header_row[i]:
                 xml = 'Not Found'
-                #remove leading and trailing spaces
-                place_name = row[i].strip()
-                if place_name == "Skinner's Well":
-                    print("============================================")
-                    quit()
-                
+                #remove leading and trailing spaces in csv
+                place_name = (row[i].strip())
+
                 for feature in json_data['features']:
-                    if feature['title'] == place_name:
+                    #replace json "’" with single quote "'""
+                     #unicode of "’" is 8217
+                    feature_title = feature['title'].replace("’", "'")
+                    if feature_title == place_name:
                         xml = feature['id']
                 final_data.append(
                     [place_name, xml, 'Y', chronicle, row[0], row[1], row[2], row[i + 1]])

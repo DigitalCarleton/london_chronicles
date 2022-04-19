@@ -30,7 +30,7 @@ St. Saviour (Southwark),STSA1,Y,Bradford32D8642,1406,Whittington,Henry IV 8,Earl
 The Thames,THAM2,Y,Bradford32D8642,1406,Whittington,Henry IV 8,Sir Thomas Rempston drowned
 Briac (Brittany),,N,Bradford32D8642,1407,Staunton,Henry IV 9,
 The Thames,THAM2,Y,Bradford32D8642,1407,Staunton,Henry IV 9,Frozen over
-Skinner's Well,Not Found,Y,Bradford32D8642,1408,Barentyn,Henry IV 10,Play performed
+Skinner's Well,SKIN3,Y,Bradford32D8642,1408,Barentyn,Henry IV 10,Play performed
 Smithfield,SMIT1,Y,Bradford32D8642,1408,Barentyn,Henry IV 10,Royal jousts
 Hogges (Normandy),,N,Bradford32D8642,1409,Marlowe,Henry IV 11,
 Smithfield,SMIT1,Y,Bradford32D8642,1409,Marlowe,Henry IV 11,Badby burned for heresy
@@ -64,13 +64,13 @@ Redecaux (sp?),,N,Bradford32D8642,1414,Fauconer,Henry V 2,
 Calais,,N,Bradford32D8642,1414,Fauconer,Henry V 2,
 Agincourt,,N,Bradford32D8642,1414,Fauconer,Henry V 2,
 Smithfield,SMIT1,Y,Bradford32D8642,1414,Fauconer,Henry V 2,Claydon and Baker burned for heresy
-Sheen's House,Not Found,Y,Bradford32D8642,1414,Fauconer,Henry V 2,Work begun
+Sheen's House,SHEE1,Y,Bradford32D8642,1414,Fauconer,Henry V 2,Work begun
 The Wall,WALL2,Y,Bradford32D8642,1414,Fauconer,Henry V 2,New gates made
 Moorfields,MOOR1,Y,Bradford32D8642,1414,Fauconer,Henry V 2,Privy movied
 London,LOND5,Y,Bradford32D8642,1414,Fauconer,Henry V 2,News of Agincourt delivered
-St. Paul's Cathedral,Not Found,Y,Bradford32D8642,1414,Fauconer,Henry V 2,Procession of religious orders
+St. Paul's Cathedral,STPA2,Y,Bradford32D8642,1414,Fauconer,Henry V 2,Procession of religious orders
 Westminster,WEST6,Y,Bradford32D8642,1414,Fauconer,Henry V 2,Procession of religious
-St. Paul's Cathedral,Not Found,Y,Bradford32D8642,1414,Fauconer,Henry V 2,Procession of Mayor and aldermen
+St. Paul's Cathedral,STPA2,Y,Bradford32D8642,1414,Fauconer,Henry V 2,Procession of Mayor and aldermen
 Westminster,WEST6,Y,Bradford32D8642,1414,Fauconer,Henry V 2,Procession of Mayor and aldermen
 Westminster,WEST6,Y,Bradford32D8642,1414,Fauconer,Henry V 2,Return to the City from
 Dover,,N,Bradford32D8642,1415,Wotton,Henry V 3,
@@ -132,7 +132,7 @@ Windsor,,N,Bradford32D8642,1421,Chichele,Henry V 9,
 Southampton,,N,Bradford32D8642,1421,Chichele,Henry V 9,
 Meaux,,N,Bradford32D8642,1421,Chichele,Henry V 9,
 Bois St Vincent,,N,Bradford32D8642,1421,Chichele,Henry V 9,
-St. Paul's Cathedral,Not Found,Y,Bradford32D8642,1421,Chichele,Henry V 9,New weathercock 
+St. Paul's Cathedral,STPA2,Y,Bradford32D8642,1421,Chichele,Henry V 9,New weathercock 
 Paris,,N,Bradford32D8642,1422,Walderne,Henry VI 1,
 Westminster Abbey,WEST1,Y,Bradford32D8642,1422,Walderne,Henry VI 1,King Henry V buried
 Smithfield,SMIT1,Y,Bradford32D8642,1422,Walderne,Henry VI 1,William Taylor burned for heresy
@@ -184,7 +184,7 @@ Rouen,,N,Bradford32D8642,1438,Brown,Henry VI 17,
 Gascony,,N,Bradford32D8642,1438,Brown,Henry VI 17,
 Guienne,,N,Bradford32D8642,1438,Brown,Henry VI 17,
 Calais,,N,Bradford32D8642,1438,Brown,Henry VI 17,
-Baynard's Castle,Not Found,Y,Bradford32D8642,1438,Brown,Henry VI 17,Accident kills 3+ men
+Baynard's Castle,BAYN1,Y,Bradford32D8642,1438,Brown,Henry VI 17,Accident kills 3+ men
 Fleet Street Conduit,FLEE8,Y,Bradford32D8642,1438,Brown,Henry VI 17,New conduit made
 London,LOND5,Y,Bradford32D8642,1438,Brown,Henry VI 17,Wheat prices rise
 Newgate,NEWG1,Y,Bradford32D8642,1438,Brown,Henry VI 17,Prostitutes put in red hoods
